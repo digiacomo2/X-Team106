@@ -16,7 +16,7 @@ Volunteer first, then if there are none leader will decide.
 On Wednesdays talk after class. Comment and describe changes.
 
 
-## How will will communicate difficulties with a task assigned to us
+## How will communicate difficulties with a task assigned to us
 Email chains and canvas group page.
 
 
