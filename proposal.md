@@ -63,18 +63,18 @@ We would use a simple GUI that would display a map that could be clicked on to d
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 
-RouteMap, 
-Buses, 
-Stops, 
-UserInterface
+* RouteMap 
+* Buses
+* Stops
+* UserInterface
 
 
 Name each interface or class and briefly describe its function or purpose.
 
-RouteMap: stores information location of all stops
-Bus: stores all stops for each bus(subgraph of travel)
-Stop: stores information about time to next stop depending on bus
-UserInterface: used to make the userinterface described earlier
+* RouteMap: stores information location of all stops
+* Bus: stores all stops for each bus(subgraph of travel)
+* Stop: stores information about time to next stop depending on bus
+* UserInterface: used to make the userinterface described earlier
 
 ## Edit and Submit this file and any figures referenced by this document. 
 
