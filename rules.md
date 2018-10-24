@@ -9,14 +9,14 @@ and will hopefully lead to productive team work with fewer conflicts
 and missed deadlines.
 
 ## How we will assign (and reassign) tasks
-Volunteer first, then if there are none leader will decide.
+Volunteer first, then if there are none leader will decide evenly.
 
 
 ## How will we will track progress (and follow-up) on completion of tasks
 On Wednesdays talk after class. Comment and describe changes.
 
 
-## How will we communicate difficulties with a task assigned to us
+## How will communicate difficulties with a task assigned to us
 Email chains and canvas group page.
 
 
