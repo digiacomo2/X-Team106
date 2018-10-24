@@ -1,4 +1,4 @@
-# X-Team NN Project Proposal
+# X-Team 106 Quickest Route
 
 See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
 
@@ -29,33 +29,53 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 
 ## Problem Description
 
-Briefly describe a problem that your team would like to solve.  
-Describe at a high level a program that could solve that problem.
+While traveling by bus whats the quickest way to get from point A to point B?
+We would have a program the implements a weighted directed graph data structure that calculates the quickest route from one point to another. 
 
 ## Questions to answer for Exercise #2
 
 1. Name: Give your project proposal a name (and edit the top line of this file)
-
+Quickest route
 
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
 
+Initial bus and stop, then any intermediate bus switches with stop number and new bus number, final stop.
+Example:
+Bus 3 Stop 5
+Bus 6 Stop 8
+Stop 10
 
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 
+Starting location(stop number) and desired destination(stop number)
+
+Starting Location: 3
+Desired Location: 11
 
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
+
+We would use a simple GUI that would display a map that could be clicked on to determine the start and stop locations
 
 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 
+RouteMap
+Bus
+Stop
+UserInterface
+
 
 
 Name each interface or class and briefly describe its function or purpose.
 
+RouteMap: stores information location of all stops
+Bus: stores all stops for each bus(subgraph of travel)
+Stop: stores information about time to next stop depending on bus
+UserInterface: used to make the userinterface described earlier
 
 ## Edit and Submit this file and any figures referenced by this document.
 
