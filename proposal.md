@@ -64,8 +64,8 @@ We would use a simple GUI that would display a map that could be clicked on to d
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 
 RouteMap
-Bus
-Stop
+Buses
+Stops
 UserInterface
 
 
