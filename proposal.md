@@ -77,5 +77,5 @@ Bus: stores all stops for each bus(subgraph of travel)
 Stop: stores information about time to next stop depending on bus
 UserInterface: used to make the userinterface described earlier
 
-## Edit and Submit this file and any figures referenced by this document.
+## Edit and Submit this file and any figures referenced by this document. 
 
