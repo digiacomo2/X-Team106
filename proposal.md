@@ -69,7 +69,6 @@ Stops
 UserInterface
 
 
-
 Name each interface or class and briefly describe its function or purpose.
 
 RouteMap: stores information location of all stops
