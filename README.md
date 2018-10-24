@@ -19,8 +19,9 @@
        * GitHub username 4: samaurer2       
        * name 4: Stefan Maurer
    * When did you complete this exercise? 
+   10/24/2018 around 6:30pm
    * How long did it take your team to complete this exercise? 
-
+  it took us about an hour and a half
 ## Table of Contents
 
 1. README.md - overview of files in this repository (this file)
