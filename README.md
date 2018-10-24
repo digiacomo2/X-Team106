@@ -7,9 +7,9 @@
 
 2. Answer these questions
    * What are the GitHub usernames and names of your team members?
-       * GitHub username 1: digiacomo2    name 1: Michael DiGiacomo
+       * GitHub username 1:       name 1:
        * GitHub username 2: wormington      name 2: Cade Wormington
-       * GitHub username 3:       name 3:
+       * GitHub username 3: RuijiaWangCS    name 3: Ruijia Wang
        * GitHub username 4:       name 4:
        * GitHub username 5:       name 5:
    * When did you complete this exercise? 
